@@ -1,0 +1,18 @@
+.container {
+  background-color: #fff;
+  box-shadow:
+    0 9px 15px 0 rgba(0, 0, 0, 0.08),
+    inset 0 0px 0 0 #e7e8ec;
+
+  font-family: "PT Serif", serif;
+
+  border-radius: 5px;
+
+  margin-top: 35px;
+  margin-bottom: 20px;
+
+  * {
+    font-family: "PT Serif", serif;
+    font-size: 1rem;
+  }
+}

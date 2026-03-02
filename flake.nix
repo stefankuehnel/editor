@@ -33,6 +33,7 @@
           pkgs.busybox
           pkgs.git
           pkgs.go-task
+          pkgs.rclone
 
           pkgs.nodejs
 

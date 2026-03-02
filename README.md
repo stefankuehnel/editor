@@ -1,6 +1,6 @@
 # Markdown Editor
 
-[![GitHub Pages](../../actions/workflows/github-pages.yaml/badge.svg)](../../actions/workflows/github-pages.yaml)
+[![CI](../../actions/workflows/ci.yaml/badge.svg)](../../actions/workflows/ci.yaml)
 
 The personal markdown editor of [Stefan Kühnel](https://stefankuehnel.com).
 
